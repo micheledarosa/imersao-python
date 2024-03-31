@@ -1,6 +1,8 @@
 ![Imgur](https://i.imgur.com/2OBWbfV.png)
 
-Este repositório contém os materiais e códigos desenvolvidos durante a minha participação na _Imersão Python_ da [Alura](https://www.alura.com.br/). Durante a imersão, explorei diferentes aspectos da análise de dados e manipulação utilizando ferramentas como **Google Sheets**, **Google Colab** e bibliotecas Python como **Pandas**, **Matplotlib**, **Plotly**, entre outras.
+Este repositório contém os materiais e códigos desenvolvidos durante a minha participação na _Imersão Python_ da [Alura](https://www.alura.com.br/). 
+
+Durante a imersão, explorei diferentes aspectos da análise de dados e manipulação utilizando ferramentas como **Google Sheets**, **Google Colab** e bibliotecas Python como **Pandas**, **Matplotlib**, **Plotly**, entre outras.
 
 ## Aula 1: Análise Exploratória com Google Sheets 📋
 
